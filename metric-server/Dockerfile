@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/metrics-server/metrics-server:v0.3.7
-MANTANCE xiangkai <xiangkainihao@163.com>
+MAINTAINER xiangkai <xiangkainihao@163.com>
